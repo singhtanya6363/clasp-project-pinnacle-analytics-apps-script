@@ -37,7 +37,7 @@ function generateWeeklyReport() {
   titleRange.setValue("Weekly Operations Report — " + dateString);
   titleRange.setFontWeight("bold");
   titleRange.setFontSize(14);
-  titleRange.setBackground("#1a3c60");
+  titleRange.setBackground("#3d3c63");
   titleRange.setFontColor("#ffffff");
   titleRange.setHorizontalAlignment("center");
 
