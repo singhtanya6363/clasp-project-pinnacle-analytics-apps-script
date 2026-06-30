@@ -1,6 +1,6 @@
 function flagProjectStatuses() {
 
-  // Step 1: Open the spreadsheet and go to the Projects tab
+  // Step 1: Open the spreadsheet and go to the Projects tab and start doing work
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Projects");
 
   // Step 2: Find the last row that has data (so we don't hardcode 17)
